@@ -13,4 +13,17 @@ The following steps should be followed:
 | classification_data_analysis_preprocessing.ipynb | Classification dataset exploratory data analysis and preprocessing. | 
 | classification_explainability.ipynb | Script that creates explanation plots for the classification models.| 
 |decision_tree_classification.ipynb | Script that finetunes the parameters of the decision tree classifier. After the finetuning, the best parameters are utilised in order to build the best final model. |
+|decision_tree_regression.ipynb | Script that finetunes the parameters of the decision tree regressor After the finetuning, the best parameters are utilised in order to build the best final model. |
+| human_evaluation_statistics.ipynb | Script that automates the extraction of human evaluation study results. It also does the statistical analysis tests. |
+| linear_regression.ipynb | Script that finetunes the parameters of the linear regression. After the finetuning, the best parameters are utilised in order to build the best final  model. |
+| logistic_regression.ipynb | Script that finetunes the parameters of the logistic regression. After the finetuning, the best parameters are utilised in order to build the best final model. |
+| long_short_term_memory_classification.ipynb | Script that finetunes the parameters of the long short-term memory classifier. After the finetuning, the best parameters are utilised in order to build the best final model. |
+| long_short_term_memory_regression.ipynb | Script that finetunes the parameters of the long short-term memory regressor. After the finetuning, the best parameters are utilised in order to build the best final model. | 
+| metric_based_results.ipynb | Script that computes the evaluation metrics' values for both classification and regression tasks. |
+| regression_data_analysis_preprocessing.ipynb | Regression dataset exploratory data analysis and preprocessing. | 
+| regression_explainability.ipynb | Script that creates explanation plots for the regression models. | 
+| support_vector_classification.ipynb | Script that finetunes the parameters of thesupport vector classifier. After the finetuning, the best parameters are utilised in order to build the best final model. |
+| support_vector_regression.ipynb | Script that finetunes the parameters of the support vector regressor. After the finetuning, the best parameters are utilised in order to build the best final model.|
+
+
 
