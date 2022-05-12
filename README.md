@@ -12,4 +12,5 @@ The following steps should be followed:
 | ------------- | ------------- |
 | classification_data_analysis_preprocessing.ipynb | Classification dataset exploratory data analysis and preprocessing. | 
 | classification_explainability.ipynb | Script that creates explanation plots for the classification models.| 
-|
+|decision_tree_classification.ipynb | Script that finetunes the parameters of the decision tree classifier. After the finetuning, the best parameters are utilised in order to build the best final model. |
+
