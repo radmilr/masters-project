@@ -11,4 +11,5 @@ The following steps should be followed:
 | File name     | Description     
 | ------------- | ------------- |
 | classification_data_analysis_preprocessing.ipynb | Classification dataset exploratory data analysis and preprocessing. | 
-| `Bob`         | Test2         | 
+| classification_explainability.ipynb | Script that creates explanation plots for the classification models.| 
+|
