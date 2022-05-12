@@ -10,7 +10,5 @@ The following steps should be followed:
 
 | File name     | Description     
 | ------------- | ------------- |
-| classification_data_analysis_preprocessing.ipynb         | Classification dataset exploratory data
-analysis and preprocessing.
-         | 
+| classification_data_analysis_preprocessing.ipynb | Classification dataset exploratory data analysis and preprocessing. | 
 | `Bob`         | Test2         | 
